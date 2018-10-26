@@ -13,4 +13,4 @@ const dec = ( n ) => n - 1
 
 const makeInt = ( n ) => parseInt( n, 10 )
 
-const preserveDecimal ( n ) => parseFloat( n, 10 )
+const preserveDecimal = ( n ) => parseFloat( n, 10 )
